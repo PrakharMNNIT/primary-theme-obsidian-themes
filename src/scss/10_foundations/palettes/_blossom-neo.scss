@@ -538,13 +538,13 @@ body {
 
     --color-l-alpha-gray: hsla(330, 8%, 68%, 0.15); // gray-80
 
-    /* Red */
-    --color-l-red-10: hsla(0, 88%, 76%, 1);
-    --color-l-red-20: hsla(0, 92%, 71%, 1);
-    --color-l-red-30: hsla(356, 72%, 58%, 1);
-    --color-l-red-40: hsla(352, 65%, 45%, 1);
+    /* Red → Soft Pink (matching primary hue ~326-335) */
+    --color-l-red-10: hsla(335, 55%, 72%, 1);
+    --color-l-red-20: hsla(332, 52%, 62%, 1);
+    --color-l-red-30: hsla(330, 48%, 52%, 1);
+    --color-l-red-40: hsla(328, 52%, 42%, 1);
 
-    --color-l-alpha-red: hsla(0, 85%, 70%, 0.2);
+    --color-l-alpha-red: hsla(330, 55%, 60%, 0.2);
 
     /* Orange */
     --color-l-orange-10: hsla(30, 80%, 68%, 1);
